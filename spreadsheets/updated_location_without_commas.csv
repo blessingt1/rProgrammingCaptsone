@@ -1,0 +1,453 @@
+id, host_location,country_primary_key
+1,Cape Town South Africa,1
+2,South Africa,1
+3,Gibraltar,23
+4,Lausanne Switzerland,3
+5,Amsterdam Netherlands,4
+6,Betty's Bay South Africa,1
+7,Kuwait City Kuwait,
+8,Western Cape South Africa,1
+9,Lagrasse France,6
+10,New York NY,
+11,Sandton South Africa,1
+12,London United Kingdom,5
+13,Cologne Germany,2
+14,Nairobi Kenya,7
+15,Hermanus South Africa,1
+16,Hamburg Germany,2
+17,Lucerne Switzerland,3
+18,Potsdam Germany,2
+19,Luxembourg,
+20,Johannesburg South Africa,1
+21,Harare Zimbabwe,16
+22,Rabat Morocco,.
+23,Hong Kong,34
+24,Mossel Bay South Africa,1
+25,Elands Bay South Africa,1
+26,Tulbagh South Africa,1
+27,Singapore,
+28,Norwich United Kingdom,5
+29,Stellenbosch South Africa,1
+30,Leffrinckoucke France,6
+31,Berlin Germany,2
+32,Paris France,6
+33,Durban South Africa,1
+34,Vanderbijlpark South Africa,1
+35,Utrecht Netherlands,4
+36,The Hague Netherlands,4
+37,Ontario CA,
+38,Cheltenham United Kingdom,5
+39,Stockholm Sweden,46
+40,England United Kingdom,5
+41,Pietermaritzburg South Africa,1
+42,Fouesnant France,6
+43,Pretoria South Africa,1
+44,Dubai United Arab Emirates,25
+45,Charleston SC,
+46,Jersey,
+47,Monaco,
+48,Germany,2
+49,Welkom South Africa,1
+50,United Arab Emirates,25
+51,Brussels Belgium,8
+52,Antwerp Belgium,8
+53,Z√ºrich Switzerland,3
+54,Munich Germany,2
+55,Vienna Austria,17
+56,Darling South Africa,1
+57,South Australia Australia,9
+58,Ibhayi South Africa,1
+59,United Kingdom,5
+60,Boksburg South Africa,1
+61,Windmeul South Africa,1
+62,Franschhoek South Africa,1
+63,Westville South Africa,1
+64,Saint Francis Bay South Africa,1
+65,Seattle WA,
+66,Gauteng South Africa,1
+67,Norway,15
+68,Seychelles,
+69,Starnberg Germany,2
+70,Plettenberg Bay South Africa,1
+71,Windhoek Namibia,
+72,Robertson South Africa,1
+73,Karas Region Namibia,
+74,Kenya,7
+75,Bay Lake FL,
+76,East London South Africa,1
+77,Worthing United Kingdom,5
+78,Somerset South Africa,1
+79,Oslo Norway,15
+80,Ericeira Portugal,11
+81,Corcelles-pr√®s-Concise Switzerland,3
+82,Oxshott United Kingdom,5
+83,Oxford United Kingdom,5
+84,Kloof South Africa,1
+85,Theletra Cyprus,27
+86,Geneva Switzerland,3
+87,Noordwijk Netherlands,4
+88,Polokwane South Africa,1
+89,Glasgow United Kingdom,5
+90,Bellingham WA,
+91,Randburg South Africa,1
+92,Edinburgh United Kingdom,5
+93,Lisbon Portugal,11
+94,Kudelstaart Netherlands,4
+95,KwaZulu-Natal South Africa,1
+96,Cape Saint Francis South Africa,1
+97,Exeter United Kingdom,5
+98,Zanzibar Tanzania,28
+99,Cambridge United Kingdom,5
+100,Herrliberg Switzerland,3
+101,Modderrivier South Africa,1
+102,Winterthur Switzerland,3
+103,Onrus South Africa,1
+104,Knysna South Africa,1
+105,Heywood United Kingdom,5
+106,Gr√ºnwald Germany,2
+107,Lusaka Zambia,13
+108,Kuwait,
+109,Tyringe Sweden,46
+110,Saint Julian's Malta,36
+111,Paarl South Africa,1
+112,Netherlands,4
+113,Potchefstroom South Africa,1
+114,Chiawa Zambia,13
+115,Rottweil Germany,2
+116,Milan Italy,12
+117,Tamarin Mauritius,31
+118,Leighton Buzzard United Kingdom,5
+119,Hillcrest South Africa,1
+120,Bilthoven Netherlands,4
+121,Woodend Australia,9
+122,Austin TX,
+123,Powell Butte OR,
+124,Bergen Netherlands,4
+125,Midrand South Africa,1
+126,Langebaan South Africa,1
+127,Vancouver Canada,24
+128,Krugersdorp South Africa,1
+129,Bethesda MD,
+130,Godalming United Kingdom,5
+131,Stuttgart Germany,2
+132,Melkbosch South Africa,1
+133,Umhlanga South Africa,1
+134,Switzerland,3
+135,Barcelona Spain,14
+136,Barberton South Africa,1
+137,Middelburg - MP South Africa,1
+138,Southlake TX,
+139,Mbabane Eswatini,
+140,Desio Italy,12
+141,Sir Lowry's Pass South Africa,1
+142,Serramanna Italy,12
+143,Poole United Kingdom,5
+144,Gaborone Botswana,30
+145,Bangkok Thailand,29
+146,Bern Switzerland,3
+147,Frankfurt Germany,2
+148,Neuburg am Rhein Germany,2
+149,Wollerau Switzerland,3
+150,Wickford United Kingdom,5
+151,Cobham United Kingdom,5
+152,Cascais Portugal,11
+153,Alberton South Africa,1
+154,United States,10
+155,Dublin Ireland,32
+156,Feusisberg Switzerland,3
+157,Durban North South Africa,1
+158,Jeffreys Bay South Africa,1
+159,Mumbai India,33
+160,Hong Kong Island Hong Kong,34
+161,Bloemfontein South Africa,1
+162,Kommetjiesdam South Africa,1
+163,Dortmund Germany,2
+164,Dolphin Coast South Africa,1
+165,Saint Anton am Arlberg Austria,17
+166,Kampala Uganda,35
+167,Secunda South Africa,1
+168,Wellington South Africa,1
+169,Santany√≠ Spain,14
+170,Marbella Spain,14
+171,Grabouw South Africa,1
+172,Fort Lauderdale FL,
+173,Arlington VA,
+174,Killarney Ireland,32
+175,Arusha Region Tanzania,28
+176,Assel Luxembourg,
+177,Libreville Gabon,37
+178,Washington United Kingdom,5
+179,Outer West Durban South Africa,1
+180,Sliema Malta,36
+181,Ottersberg Germany,2
+182,Australia,9
+183,Odenthal Germany,2
+184,Manchester United Kingdom,5
+185,Arklow Ireland,32
+186,British Columbia Canada,24
+187,Bouillon Belgium,8
+188,West Coast Peninsula South Africa,1
+189,Sewickley PA,
+190,The Sands United Kingdom,5
+191,Perth Australia,9
+192,Sydney Australia,9
+193,M√§nnedorf Switzerland,3
+194,Philippines,
+195,Douala Cameroon,
+196,Shelley United Kingdom,5
+197,Atlanta GA,
+198,'s-Gravenzande Netherlands,4
+199,Dusseldorf Germany,2
+200,Mechelen Belgium,8
+201,Oberschlei√üheim Germany,2
+202,Chapel Row United Kingdom,5
+203,L√ºnen Germany,2
+204,West Coast DC South Africa,1
+205,Montagu South Africa,1
+206,George South Africa,1
+207,Raithby South Africa,1
+208,Kitzbuhel Austria,17
+209,Franklin TN,
+210,Kamakura Japan,21
+211,Hartbeespoort South Africa,1
+212,Chesterfield United Kingdom,5
+213,Steenokkerzeel Belgium,8
+214,West Chicago IL,
+215,Avoca Beach Australia,9
+216,Miami FL,
+217,Woldingham United Kingdom,5
+218,Langnau am Albis Switzerland,3
+219,Bellville TX,
+220,Jerusalem Israel,39
+221,Kipili Tanzania,28
+222,Denver CO,
+223,Skiathos Greece,38
+224,Kreuzlingen Switzerland,3
+225,Beaufort West South Africa,1
+226,Copenhagen Denmark,20
+227,Strasbourg France,6
+228,Coventry United Kingdom,5
+229,India,33
+230,Bredasdorp South Africa,1
+231,Heemstede Netherlands,4
+232,Blouberg South Africa,1
+233,Riebeeck Kasteel South Africa,1
+234,Kimberley South Africa,1
+235,Hanover Germany,2
+236,Williston South Africa,1
+237,Sun City South Africa,1
+238,San Francisco CA,
+239,Bethlehem MD,
+240,Howick South Africa,1
+241,Evander South Africa,1
+242,Victoria Canada,24
+243,Lisse Netherlands,4
+244,Stavanger Norway,15
+245,Mill Valley CA,
+246,Venlo Netherlands,4
+247,Troisvierges Luxembourg,
+248,K√∂nigstein im Taunus Germany,2
+249,Springs South Africa,1
+250,London Canada,24
+251,Urmston United Kingdom,5
+252,Sachsen bei Ansbach Germany,2
+253,Richmond United Kingdom,5
+254,Lenggries Germany,2
+255,California City CA,
+256,Saarbr√ºcken Germany,2
+257,Port Elizabeth South Africa,1
+258,Leiden Netherlands,4
+259,West Newbury MA,
+260,Rhodes Greece,38
+261,Emalahleni South Africa,1
+262,Flensburg Germany,2
+263,Hersham United Kingdom,5
+264,Grand-Saconnex Switzerland,3
+265,South Cape DC South Africa,1
+266,Doha Qatar,
+267,Centurion South Africa,1
+268,Wiesbaden Germany,2
+269,Hamburg South Africa,1
+270,Grahamstown South Africa,1
+271,Amstelveen Netherlands,4
+272,Zug Switzerland,3
+273,Nice France,6
+274,Missoula MT,
+275,Mahikeng South Africa,1
+276,Arcadia CA,
+277,Los Angeles CA,
+278,Kempton Park South Africa,1
+279,Roodepoort South Africa,1
+280,Torsh√§lla Sweden,46
+281,Saihat Saudi Arabia,18
+282,Bussum Netherlands,4
+283,Rustenburg South Africa,1
+284,Somerset West OR,
+285,Cayman Islands,
+286,Ensdorf Germany,2
+287,Lexington KY,
+288,Green Point South Africa,1
+289,Zurich Switzerland,3
+290,Kraaifontein South Africa,1
+291,Baku Azerbaijan,41
+292,Stockholm County Sweden,46
+293,Eugene OR,
+294,Burford United Kingdom,5
+295,Napier South Africa,1
+296,Freienbach Switzerland,3
+297,Stanford South Africa,1
+298,Colenso South Africa,1
+299,Benoni South Africa,1
+300,Remscheid Germany,2
+301,Sch√§ftlarn Germany,2
+302,Oxon Hill MD,
+303,Inverness United Kingdom,5
+304,Swansea United Kingdom,5
+305,Walkerville South Africa,1
+306,Genoa Italy,12
+307,Tyger Valley South Africa,1
+308,Swellendam South Africa,1
+309,Staines-upon-Thames United Kingdom,5
+310,Philadelphia South Africa,1
+311,Uster Switzerland,3
+312,Kinshasa Democratic Republic of the Congo,
+313,Luanda Angola,42
+314,Leipzig Germany,2
+315,Donostia-San Sebastian Spain,14
+316,Makhanda South Africa,1
+317,Kakamas South Africa,1
+318,D√ºsseldorf Germany,2
+319,Matfield United Kingdom,5
+320,Rome Italy,12
+321,Groningen Netherlands,4
+322,Graz Austria,17
+323,Tel Aviv-Yafo Israel,39
+324,Wilderness South Africa,1
+325,Encinitas CA,
+326,Lethabong South Africa,1
+327,Union NJ,
+328,Rorschacherberg Switzerland,3
+329,Ismaning Germany,2
+330,Chatsworth South Africa,1
+331,Roosendaal Netherlands,4
+332,L√ºbeck Germany,2
+333,Rotterdam Netherlands,4
+334,Walton-on-Thames United Kingdom,5
+335,Orlando FL,
+336,H√∂slwang Germany,2
+337,Vleuten Netherlands,4
+338,Gqeberha South Africa,1
+339,Leeds United Kingdom,5
+340,'s-Hertogenbosch Netherlands,4
+341,Kiel Germany,2
+342,Mannheim Germany,2
+343,Hilvarenbeek Netherlands,4
+344,Bruges Belgium,8
+345,Hyvink√§√§ Finland,44
+346,Rostock Germany,2
+347,Rauenberg Germany,2
+348,Freienwill Germany,2
+349,Herolds Bay South Africa,1
+350,L√∂rrach Germany,2
+351,Oberursel Germany,2
+352,Veneto Italy,12
+353,Haarlem Netherlands,4
+354,Milford CT,
+355,Malmesbury South Africa,1
+356,Newcastle South Africa,1
+357,Neustadt Germany,2
+358,Scotland United Kingdom,5
+359,Spain,14
+360,Prescott AZ,
+361,Florence Italy,12
+362,Cardiff United Kingdom,5
+363,Milwaukee WI,
+364,Helsinki Finland,44
+365,Nacala Mozambique,45
+366,Gold Coast Australia,9
+367,Klagenfurt Austria,17
+368,New York United States,10
+369,Hollersbach im Pinzgau Austria,17
+370,Gothenburg Sweden,46
+371,Suurbraak South Africa,1
+372,Prieska South Africa,1
+373,Basalt CO,
+374,Birmingham United Kingdom,5
+375,Flamingo Vlei South Africa,1
+376,Saldanha South Africa,1
+377,Oakville Canada,24
+378,Langenfeld Germany,2
+379,Cape Canaveral FL,
+380,Johannesburg South South Africa,1
+381,Madrid Spain,14
+382,Monrovia CA,
+383,Hillsboro Beach FL,
+384,Essen Germany,2
+385,Meerbusch Germany,2
+386,Mainz Germany,2
+387,Victoria Falls Zimbabwe,16
+388,Marmaris Turkey,47
+389,Cadmore End United Kingdom,5
+390,Zambia,13
+391,Newton Flotman United Kingdom,5
+392,Constantia South Africa,1
+393,Middelburg South Africa,1
+394,Chantilly VA,
+395,Royal Tunbridge Wells United Kingdom,5
+396,Chicago IL,
+397,Montreal Canada,24
+398,Wassenaar Netherlands,4
+399,Hilton South Africa,1
+400,Ghent Belgium,8
+401,Siegen Germany,2
+402,Schafisheim Switzerland,3
+403,Oakland CA,
+404,Wietmarschen Germany,2
+405,ƒ∞stanbul Turkey,47
+406,Saint Albans United Kingdom,5
+407,Taoyuan City Taiwan,
+408,Prague Czechia,19
+409,Jacksonville Beach FL,
+410,Nelspruit South Africa,1
+411,Thohoyandou South Africa,1
+412,Lyon France,6
+413,Klerksdorp South Africa,1
+414,Clermont FL,
+415,Sevenoaks United Kingdom,5
+416,K√ºsnacht Switzerland,3
+417,Remshalden Germany,2
+418,Penrith United Kingdom,5
+419,East Hampton NY,
+420,Kasouga South Africa,1
+421,Freisen Germany,2
+422,Volksrust South Africa,1
+423,Kleinmond South Africa,1
+424,uMhlanga South Africa,1
+425,Canterbury United Kingdom,5
+426,Leeuwarden Netherlands,4
+427,Langley Canada,24
+428,Oudtshoorn South Africa,1
+429,Ceres South Africa,1
+430,Las Cruces NM,
+431,Palma Spain,14
+432,Orgerus France,6
+433,Denpasar Indonesia,
+434,Angola South Africa,1
+435,Al Khobar Saudi Arabia,18
+436,Muiderberg Netherlands,4
+437,Kingston upon Thames United Kingdom,5
+438,Vuadens Switzerland,3
+439,Abu Dhabi United Arab Emirates,25
+440,Federal Capital Territory Nigeria,48
+441,Osaka Japan,21
+442,Cork Ireland,32
+443,Warsaw Poland,49
+444,Mahlobyanini South Africa,1
+445,Basel Switzerland,3
+446,Tewantin Australia,9
+447,Montpellier France,6
+448,Nashville TN,
+449,Istanbul Turkey,47
+450,Gorebridge United Kingdom,5
+451,Maun Botswana,30
+452,Cathkin Park South Africa,1
