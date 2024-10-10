@@ -1,8 +1,8 @@
 import pandas as pd
 
 # Load the CSV file
-input_file = '/Users/blessingt03/Documents/GitHub/rProgrammingCaptsone/spreadsheets/reviewerSpread.csv'  # Replace with your actual file path
-output_file = '/Users/blessingt03/Documents/GitHub/rProgrammingCaptsone/sqlTables/reviewerTable.csv'  # Replace with your desired output file path
+input_file = '/Users/milanichikeka/Documents/GitHub/rProgrammingCaptsone/spreadsheets/reviewSpread.csv'  # Replace with your actual file path
+output_file = '/Users/milanichikeka/Documents/GitHub/rProgrammingCaptsone/sqlTables/reviewTable.csv'  # Replace with your desired output file path
 
 # Read the CSV file with commas as the delimiter
 df = pd.read_csv(input_file)
