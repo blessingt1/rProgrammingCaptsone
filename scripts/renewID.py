@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 
 # Load the spreadsheet (change the filename as needed)
-get_file_path = '/Users/milanichikeka/Documents/Tech Giants anaylytics/updated_location_without_commas(1) 2.csv'  # Replace with your actual file path
-dest_file_path = '/Users/milanichikeka/Documents/GitHub/rProgrammingCaptsone/spreadsheets/updated_location_without_commas(1) 2.csv'  # Replace with your actual file path
+get_file_path = 'PRX.ASH1.csv'  # Replace with your actual file path
+dest_file_path = 'PRX.ASH1.csv'  # Replace with your actual file path
 
 
 
